@@ -1,6 +1,6 @@
 # my_first_project
 ## Short description
-This project analyzes a dataset of 21 321 food orders from 6 different restaurants.
+This project analyzes a dataset of 21 321 food orders from 6 different restaurants (The Chicken Junction, Aura Pizzas, Masala Junction, Tandoori Junction, Swaad, Dilli Burger Adda).
 The analysis includes data cleaning, exploratory data analysis, vizualization and prediction models for delivery time and customer satisfaction.
 
 ## Key Futures
@@ -10,14 +10,12 @@ The analysis includes data cleaning, exploratory data analysis, vizualization an
 - **Business Insights**: Providing actionable recommendations for restaurants and delivery platforms.
 - 
 ## Technologies used
-Python
-pandas, numpy
-matplotlib, seaborn
-plotly
-re
-scikit-learn
-faker
-Kaggle
+- **Programming Language**: Python
+- **Data Analysis**: pandas, numpy
+- **Data Visualization**: matplotlib, seaborn, plotly
+- **Machine Learning**: Scikit-learn
+- **Notebook Environment**: Jupiter
+- **Data Processing**: Regular Expressions (re)
+- **Data Validation**: Faker (for data anonymization)
 
-## Dataset
-The dataset includes orders from 
+
