@@ -15,7 +15,7 @@ The analysis includes data cleaning, exploratory data analysis, vizualization an
 - **Data Visualization**: matplotlib, seaborn, plotly
 - **Machine Learning**: Scikit-learn
 - **Notebook Environment**: Jupiter
-- **Data Processing**: Regular Expressions (re)
-- **Data Validation**: Faker (for data anonymization)
+- **Data Processing**: Regular Expressions
+- **Data Validation**: Faker
 
 
